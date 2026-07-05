@@ -38,6 +38,28 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 
 ---
 
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,threejs" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,firebase,supabase" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,npm" />
+</p>
+
+
 # 💻 What I Do
 
 - 🤖 AI Applications
@@ -61,26 +83,6 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 - 🚀 Premium UI Components
 
 ---
-
-# 🛠 Tech Stack
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,threejs" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,firebase,supabase" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,npm" />
-</p>
 
 ---
 
