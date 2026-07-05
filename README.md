@@ -65,10 +65,10 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=jacoco17&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoco17&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacoco17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoco17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 </div>
 
 ---
