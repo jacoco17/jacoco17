@@ -59,18 +59,6 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,npm" />
 </p>
 
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacoco17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoco17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-</div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -87,17 +75,7 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 
 [![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacoco17&theme=tokyo-night&hide_border=true)](https://github.com/jacoco17)
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jacoco17/jacoco17/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
 
 ---
 
