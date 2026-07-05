@@ -143,9 +143,9 @@ Features:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=jacoco17&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoco17&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -155,7 +155,7 @@ Features:
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jacoco17&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -163,7 +163,7 @@ Features:
 
 # 📈 Contribution Graph
 
-[![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacoco17&theme=tokyo-night&hide_border=true)](https://github.com/jacoco17)
 
 ---
 
@@ -171,7 +171,7 @@ Features:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/jacoco17/jacoco17/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -254,6 +254,6 @@ Features:
 
 Thanks for stopping by!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jacoco17&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
