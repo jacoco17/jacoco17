@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hey, I'm John Francis Rivero
+# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2f5d8252-f46c-4413-9b68-35c64fff4b7f" />
+ Hey, I'm John Francis Rivero
 
 ### Full Stack Developer • AI Builder • UI Engineer
 
