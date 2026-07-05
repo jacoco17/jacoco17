@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm John Francis Rivero
+# What's up? I'm John Francis Rivero
 
 ### Full Stack Developer • AI Builder • UI Engineer
 
