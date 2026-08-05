@@ -28,7 +28,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Full Stack Developer** from the Philippines who enjoys creating software with polished user experiences, modern design, and practical functionality.
 
@@ -61,7 +61,7 @@ I constantly explore new technologies and enjoy solving challenging problems wit
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
