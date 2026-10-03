@@ -11,25 +11,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jacoco17&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=2ea043&logo=github" alt="Public repositories" />
 </a> </div>
 
----
 
-<div align="left">
-<table width="100%">
-    <tr>
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
-
-## About Me
-Code-freak
-   ```
-   </td>
-   ```
-
-   </tr>
-   </table>
-
-</div>
-
----
 
 ## What I Build
 
