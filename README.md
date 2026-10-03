@@ -111,6 +111,8 @@ I’m a **full-stack developer** who turns ideas into useful, maintainable softw
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/Google reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google reCAPTCHA" />
+<img src="https://img.shields.io/badge/EmailJS-1769AA?style=for-the-badge&logo=emailjs&logoColor=white" alt="EmailJS" />
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
