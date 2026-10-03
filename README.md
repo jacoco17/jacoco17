@@ -19,17 +19,7 @@
       <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 ## About Me
-
-I’m a **full-stack developer** who turns ideas into useful, maintainable software. I work across interfaces, APIs, databases, testing, deployment, and product polish.
-
-- I build web and mobile applications from concept to release.
-
-- I care about clear UI, readable code, and predictable systems.
-
-- I enjoy learning new tools by using them in real projects.
-
-- I share selected work, experiments, and technical notes here.
-
+Code-freak
    ```
    </td>
    ```
