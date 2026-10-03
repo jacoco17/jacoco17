@@ -11,7 +11,35 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jacoco17&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=2ea043&logo=github" alt="Public repositories" />
 </a> </div>
 
+---
 
+<div align="left">
+<table width="100%">
+    <tr>
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+
+## About Me
+
+I’m a **full-stack developer** who turns ideas into useful, maintainable software. I work across interfaces, APIs, databases, testing, deployment, and product polish.
+
+- I build web and mobile applications from concept to release.
+
+- I care about clear UI, readable code, and predictable systems.
+
+- I enjoy learning new tools by using them in real projects.
+
+- I share selected work, experiments, and technical notes here.
+
+   ```
+   </td>
+   ```
+
+   </tr>
+   </table>
+
+</div>
+
+---
 
 ## What I Build
 
