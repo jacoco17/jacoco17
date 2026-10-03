@@ -122,19 +122,6 @@ I’m a **full-stack developer** who turns ideas into useful, maintainable softw
 <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
 </p>
 
----
-
-## Latest Blog Posts
-
-<!-- Replace these examples with real article links, or remove this section until you have posts. -->
-
-- [Your latest article](https://your-blog.com/latest-article) — A short description of the topic and takeaway.
-
-- [Another technical note](https://your-blog.com/another-article) — A practical lesson from building or shipping software.
-
-- [Project deep dive](https://your-blog.com/project-deep-dive) — The decisions behind a recent project.
-
----
 
 ## GitHub Statistics
 
